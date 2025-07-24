@@ -43,7 +43,7 @@ We strongly recommend you to schedule it every day.
 1. Navigate in the Google Ads account, and go in the Account setting section.
 2. There you’ll find a “Tracking” setting.
 3. Here you can find the Final URL suffix field.  Set it to: 
-utm_source=google&utm_source_platform=Google+Ads&utm_medium=cpc&utm_campaign={_campaignname}&utm_campaignid={campaignid}
+utm_source=google&utm_source_platform=Google+Ads&utm_medium=cpc&utm_campaign={_campaignname}&utm_id={campaignid}
 
 **If you are using a tracking tool**, check on your account at every level, where the “final url suffix” field is already filled out. We recommend using [Google Ads Editor](https://support.google.com/google-ads/editor/answer/2484521?hl=en) to check this quickly. 
 
